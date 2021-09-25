@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+
+h1{
+	font-family: arial, helvetica;
+	color:white;
+}
+body{
+	background: #092327;
+}
+p{
+	font-family: arial, helvetica;
+	padding: 20px;
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+	display:inline-block;
+	text-align:middle;
+	line-height: 90%;
+}
