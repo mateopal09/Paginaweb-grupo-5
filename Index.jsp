@@ -8,15 +8,6 @@
 <title>Tienda Generica</title>
 <link rel="stylesheet" href="estiloindex.css" type="text/css">
 </head>
-<style>
-#button {
-	display: flex;
-	padding: 8px;
-	align-items: center;
-	justify-content: center;
-}
-{
-</style>
 <body>
 	<h1 align="center">Bienvenido a la Tienda Generica</h1>
 	<h2>Estamos actualizando</h2>
@@ -24,7 +15,7 @@
 		Usuario: <input type="text">
 	</p>
 	<p align="center">
-		Contraseña: <input type="password">
+		ContraseÃ±a: <input type="password">
 	</p>
 	<form method="post" name="Aceptar" id="button">
 		<input type="submit" name="Aceptar" value="Aceptar">
